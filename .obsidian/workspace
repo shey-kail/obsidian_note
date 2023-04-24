@@ -1,0 +1,70 @@
+{
+  "main": {
+    "id": "e452e428e66810ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "5df1f59d1955edf8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "备忘录/快速单倍体call snp和核心基因组比对.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "439af468cb4785d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc1649259bccffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65592930fc009b1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "143312335d94be3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16417b91bc0fc68f",
+    "type": "split",
+    "children": [],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5df1f59d1955edf8",
+  "lastOpenFiles": [
+    "备忘录/快速单倍体call snp和核心基因组比对.md"
+  ]
+}

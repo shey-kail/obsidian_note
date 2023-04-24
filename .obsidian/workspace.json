@@ -1,0 +1,105 @@
+{
+  "main": {
+    "id": "e452e428e66810ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dd8a1da9604e63f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd1b5d1c5514686e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DNA/get organelle 使用教程.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "439af468cb4785d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc1649259bccffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65592930fc009b1a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "143312335d94be3f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "16417b91bc0fc68f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d84a7680f6c1ff4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a46d5f2a3ccd18d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DNA/get organelle 使用教程.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd1b5d1c5514686e",
+  "lastOpenFiles": [
+    "LD/计算两个等位基因（或snp）时，可以用的简单计算模型.md",
+    "DNA/get organelle 使用教程.md",
+    "备忘录/targetp.md",
+    "DNA/bwa中你不知道的一些事.md",
+    "DNA/bcftools call snp.md",
+    "DNA/由vcf定制化基因组.md",
+    "RNA/cufflinks定量.md",
+    "RNA/STAR.md",
+    "RNA/hisat2.md",
+    "DNA/用snpeff对变异进行功能注释.md"
+  ]
+}

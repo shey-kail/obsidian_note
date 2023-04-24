@@ -1,0 +1,1 @@
+targetp -batch 100 -fasta Protein.final.fasta -format short -org pl -tmp ./
